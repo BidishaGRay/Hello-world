@@ -1,0 +1,9 @@
+package com.marlabs.Inheritance;
+
+public class Demo2 {
+
+	public static void main(String[] args) {
+
+	}
+
+}
